@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c902cda0-87a5-4d74-8f35-73c012cb3c2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.js/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/next.js/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.js/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/next.js/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,24 +26,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.localhost:3001.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Users\\Abhay Gautam\\WebstormProjects\\Next.js\\next.js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.localhost:3001.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Abhay Gautam\\WebstormProjects\\Next.js\\next.js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="localhost:3001" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3001">
       <method v="2" />
@@ -68,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1757867841622</updated>
       <workItem from="1757867842464" duration="8439000" />
-      <workItem from="1757938944082" duration="2479000" />
+      <workItem from="1757938944082" duration="2813000" />
+      <workItem from="1758045769125" duration="1195000" />
     </task>
     <servers />
   </component>
