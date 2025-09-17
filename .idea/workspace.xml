@@ -7,6 +7,7 @@
     <list default="true" id="c902cda0-87a5-4d74-8f35-73c012cb3c2f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/next.js/app/(root)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.js/app/page.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,8 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Abhay Gautam\WebstormProjects\Next.js\next.js\app\(root)" />
+      <recent name="C:\Users\Abhay Gautam\WebstormProjects\Next.js\next.js\app\(root)\about" />
+      <recent name="C:\Users\Abhay Gautam\WebstormProjects\Next.js\next.js\app" />
       <recent name="C:\Users\Abhay Gautam\WebstormProjects\Next.js\next.js\app\(dashboard)\users" />
       <recent name="C:\Users\Abhay Gautam\WebstormProjects\Next.js\next.js\app\(dashboard)" />
     </key>
@@ -76,7 +79,7 @@
       <updated>1757867841622</updated>
       <workItem from="1757867842464" duration="8439000" />
       <workItem from="1757938944082" duration="2813000" />
-      <workItem from="1758045769125" duration="3135000" />
+      <workItem from="1758045769125" duration="6353000" />
     </task>
     <servers />
   </component>
